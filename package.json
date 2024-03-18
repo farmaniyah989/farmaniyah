@@ -1,0 +1,30 @@
+{
+  "name": "farmaniyah",
+  "version": "1.0.0",
+  "description": "Farmaniyah is a Node.js module that provides a collection of magical helper functions to simplify common tasks in your applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/farmaniyah989/farmaniyah"
+  },
+  "dependencies": {
+	  "farmaniyah-mod": "1.0.0",
+"edwardcollins": "1.0.0",
+"denisgorlov-math": "1.0.0",
+"selivanovpetr": "1.0.0",
+"grommailpasha-module": "1.0.0",
+"limonovp-mode": "1.0.0",
+"loginovy": "1.0.0",
+    "axios": "^0.24.0",
+    "lodash": "^4.17.21"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farmaniyah989/farmaniyah/issues"
+  },
+  "homepage": "https://github.com/farmaniyah989/farmaniyah#readme"
+}
